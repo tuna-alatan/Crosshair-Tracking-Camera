@@ -1,5 +1,8 @@
 
 # 🎯 Crosshair Tracking Camera System
+<img src="IMG_7372.jpeg" width="500">
+
+The video presentation of the project can be accessed through this [link](https://youtu.be/lY_j3aKmNHM).
 
 This project is a **real-time visual tracking system** using two microcontrollers:
 
